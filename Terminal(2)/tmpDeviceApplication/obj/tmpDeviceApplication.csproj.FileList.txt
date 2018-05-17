@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\tmpDeviceApplication.csproj.GenerateResource.Cache
+bin\Debug\tmpDeviceApplication.exe
+bin\Debug\tmpDeviceApplication.pdb
+obj\Debug\tmpDeviceApplication.exe
+obj\Debug\tmpDeviceApplication.pdb
+obj\Debug\Terminal.EnterProductID.resources
+obj\Debug\Terminal.Properties.Resources.resources

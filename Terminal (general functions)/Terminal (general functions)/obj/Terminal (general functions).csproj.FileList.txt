@@ -1,0 +1,8 @@
+bin\Debug\Terminal (general functions).exe
+bin\Debug\Terminal (general functions).pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Terminal.Properties.Resources.resources
+obj\Debug\Terminal (general functions).csproj.GenerateResource.Cache
+obj\Debug\Terminal (general functions).exe
+obj\Debug\Terminal (general functions).pdb
+obj\Debug\Terminal.MainFormDeffectsOnly.resources
